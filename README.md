@@ -4,7 +4,7 @@ This repository contains the Python projects completed during my Python Programm
 
 Projects
 
-Task 2 - Password Generator
+Task 1 - Password Generator
 
 A Python program that generates secure random passwords.
 
